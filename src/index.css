@@ -3,13 +3,13 @@
 @tailwind utilities;
 
 :root {
-  --ff-kr: 'Noto Sans KR,sans-serif';
-  --ff-en: 'IBM Plex Mono,monospace';
-  color-scheme: dark;
+  --ff-kr: 'Noto Sans KR', sans-serif;
+  --ff-en: 'IBM Plex Mono', monospace;
+  color-scheme: dark; /*페이지 어둡게 처리*/
 }
 
 .App {
-  font-size: 30px;
+  font-size: 15px;
 }
 
 .kr {
@@ -18,4 +18,10 @@
 
 .en {
   font-family: var(--ff-en);
+}
+
+.container {
+  margin: auto;
+  padding: 1rem;
+  width: 100%;
 }
