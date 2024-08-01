@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="#">
-   Nalice From AICC
+   Lollipopwyn From AICC
   </a>
 </h1>
 
@@ -26,7 +26,7 @@
 
 - [Setting](#setting)
   - [Built With](#built-with)
-- [Getting Started](#getting-started)
+- [Report a Bug](#report-a-bug)
   - [Prerequisites](#prerequisites)
   - [Usage](#usage)
     - [Manual setup](#manual-setup)
@@ -43,7 +43,7 @@
 
 ### Built With
 
-## Getting Started
+## Report a Bug
 
 ### Prerequisites
 
