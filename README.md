@@ -15,8 +15,6 @@
   <a href="#">Ask a Question</a>
 </div>
 
-<<<<<<< HEAD
-
 </div>
 
 <div align="left">
@@ -40,8 +38,6 @@
 
 ## Setting
 
-=======
-
 </div>
 
 <div align="left">
@@ -64,8 +60,6 @@
 </details>
 
 ## Setting
-
-> > > > > > > 0d19e9ee5ee8a7ad7d1a6fe027ed8c7100f62fc4
 
 <tr>
 <td>
