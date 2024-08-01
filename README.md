@@ -17,3 +17,19 @@
 
 <div align="center">
 <br />
+
+<details open="open">
+<summary>Table of Contents</summary>
+
+- [About](#about)
+  - [Built With](#built-with)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Usage](#usage)
+    - [Manual setup](#manual-setup)
+    - [Variables reference](#variables-reference)
+- [Roadmap](#roadmap)
+- [Support](#support)
+- [License](#license)
+
+</details>
