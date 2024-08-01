@@ -15,6 +15,8 @@
   <a href="#">Ask a Question</a>
 </div>
 
+<<<<<<< HEAD
+
 </div>
 
 <div align="left">
@@ -37,6 +39,33 @@
 </details>
 
 ## Setting
+
+=======
+
+</div>
+
+<div align="left">
+<br />
+
+<details open="open">
+<summary>Table of Contents</summary>
+
+- [Setting](#setting)
+  - [Built With](#built-with)
+- [Report a Bug](#report-a-bug)
+  - [Prerequisites](#prerequisites)
+  - [Usage](#usage)
+    - [Manual setup](#manual-setup)
+    - [Variables reference](#variables-reference)
+- [Roadmap](#roadmap)
+- [Support](#support)
+-
+
+</details>
+
+## Setting
+
+> > > > > > > 0d19e9ee5ee8a7ad7d1a6fe027ed8c7100f62fc4
 
 <tr>
 <td>
