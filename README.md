@@ -55,7 +55,7 @@
     - [Variables reference](#variables-reference)
 - [Roadmap](#roadmap)
 - [Support](#support)
--
+- [License](#license)
 
 </details>
 

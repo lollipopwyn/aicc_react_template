@@ -1,8 +1,8 @@
 nav {
-  position: fixed;
+  position: sticky;
   left: 0;
   top: 0;
-  border-bottom: 1px solid #eeeeee;
+  border-bottom: 1px solid rgb(64 64 64);
   width: 100%;
 }
 
@@ -51,23 +51,24 @@ nav {
 .nav_wrapper .logo_title {
   font-family: var(--ff-en);
   font-weight: 500;
-  font-size: 1.25rem;
+  _font-size: 1.25rem;
 }
 
 /* Navigation */
 .nav_wrapper .navi {
-  display: flex;
+  _display: flex;
   gap: 1.25rem;
   font-family: var(--ff-en);
 }
 
 /* Sub Navigation */
 .nav_wrapper .sub_links {
-  display: flex;
+  _display: flex;
   gap: 0.5rem;
+  /* align-items: center; */
 }
 
-.nav_wrapper .sub_links a {
+.sub_links a {
   font-family: var(--ff-en);
   display: flex;
   align-items: center;
@@ -76,3 +77,13 @@ nav {
   padding: 0.25rem 0.75rem;
   border-radius: 0.5rem;
 }
+
+.mode_btn {
+  font-size: 0.625rem;
+  /* padding: 0 0.5rem; */
+
+  border-radius: 0.5rem;
+  border: 1px rgb(203 213 225) solid;
+}
+
+/* Navbar */

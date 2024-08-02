@@ -25,3 +25,20 @@
   padding: 1rem;
   width: 100%;
 }
+
+@media (max-width: 1024px) {
+  .container {
+    max-width: 100%;
+  }
+}
+
+Footer .container {
+  display: grid;
+  /* grid-template-columns: repeat(3, 1fr); */
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.vid {
+  width: 80%;
+  box-shadow: 0 0 5px rgb(100 116 139);
+}
